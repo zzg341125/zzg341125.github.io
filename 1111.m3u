@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1综合
+http://tvbox6.com/tv/cctv.php?id=cctv1
+#EXTINF:-1 ,CCTV-1综合
+https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.m3u8
+#EXTINF:-1 ,CCTV-1综合
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 ,CCTV-1综合
+https://stream1.freetv.fun/3525da5853ff83e098ea604699a7e0ae922492bb81df139b56a996753ea75519.m3u8
+#EXTINF:-1 ,CCTV-1综合
 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 ,CCTV-1综合
 http://58.51.111.46:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-1综合
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1723225047-0-pcsf39027e0b7064e3daea7775be01d6123-3f6ecc6de67537fd362ae11a705a92bc&yid=pcsf39027e0b7064e3daea7775be01d6123
 #EXTINF:-1 ,CCTV2
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+#EXTINF:-1 ,CCTV2
+http://tvbox6.com/tv/cctv.php?id=cctv2
 #EXTINF:-1 ,CCTV2
 http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV2
@@ -18,13 +28,27 @@ http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 ,CCTV3
 http://58.51.111.46:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV4
+http://tvbox6.com/tv/cctv.php?id=cctv4
+#EXTINF:-1 ,CCTV4
 http://58.51.111.46:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV-5体育
 http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://stream1.freetv.fun/5e8c1e3a97a30f74d4a12db63254feca462e6dc5d0b668092ce1315d96d67613.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://stream1.freetv.fun/dd322290645e66fb4f8300b55e4f514a18aad16aa8734bbb37af994da6620a24.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://stream1.freetv.fun/cc4347d44200ebd2315b9abb5673ca03c14b6de97a9e2cc320fdb2fa07b91ee1.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://stream1.freetv.fun/404d681872d18093ab618db792820a49a3821702017a8a36e437cf26f8557617.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://stream1.freetv.fun/ac2bfc785049f5f8e7c73e80eb8359e17044b402e8fb96e3c16c7cc156e73c04.m3u8
 #EXTINF:-1 ,CCTV5+
 http://58.51.111.46:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV-16奥利匹克
 http://183.236.32.24:9901/hls/1016/index.m3u8
+#EXTINF:-1 ,CCTV-16奥利匹克
+https://stream1.freetv.fun/89b9dc1017a0a101b88798c53db4114d2a298d0c6f2a6ec5548fc71731d964fa.m3u8
 #EXTINF:-1 ,CCTV-3综艺
 http://183.236.32.24:9901/hls/1003/index.m3u8
 #EXTINF:-1 ,CCTV-3综艺
@@ -70,6 +94,12 @@ https://025365.xyz:8082/jstv.php?id=jsys
 #EXTINF:-1 ,CCTV12社会与法
 http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
 #EXTINF:-1 ,CCTV13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1723218644-0-900c6146bdd64e0f96ca6af17c22687c-4da9b6c7d89c099f512634b514fffd34&yid=900c6146bdd64e0f96ca6af17c22687c
+#EXTINF:-1 ,CCTV13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1723225159-0-pcsfc79afbb4431460796c4b8e545fe4b0a-5ae00da23183b14946d0d9091e4e9af3&yid=pcsfc79afbb4431460796c4b8e545fe4b0a
+#EXTINF:-1 ,CCTV13新闻
+http://tvbox6.com/tv/cctv.php?id=cctv13
+#EXTINF:-1 ,CCTV13新闻
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV13新闻
 http://61.138.128.226:19901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -101,12 +131,20 @@ http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 ,凤凰资讯
+https://stream1.freetv.fun/5e8c1e3a97a30f74d4a12db63254feca462e6dc5d0b668092ce1315d96d67613.m3u8
 #EXTINF:-1 ,凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰中文
 http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 ,凤凰中文
+https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv
 #EXTINF:-1 ,凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 ,凤凰香港
+https://stream1.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+#EXTINF:-1 ,香港卫视
+https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 #EXTINF:-1 ,明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 ,TVB星河
@@ -115,10 +153,16 @@ http://php.jdshipin.com:8880/smt.php?id=Xinhe
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 ,翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_tw
+#EXTINF:-1 ,翡翠台
+https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
 #EXTINF:-1 ,美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 ,美亚电影台
 https://025365.xyz:8082/jstv.php?id=jszy
+#EXTINF:-1 ,香港C+
+https://stream1.freetv.fun/394c42b3f08157667f830ed8dcff23cf770f04df377d263ac2103ca1bd4e6028.m3u8
+#EXTINF:-1 ,香港C+
+https://stream1.freetv.fun/2ef68cccf501dcade97a72dbaa2f02cc7fddea7d69731be6306856dc10bbd97f.m3u8
 #EXTINF:-1 ,民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 ,东森新闻
@@ -127,6 +171,8 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 ,[HD]非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 ,[HD]非凡新闻
+https://stream1.freetv.fun/4cbbb4cbb66e4a4398718331c305edafb02a1fe01cab4c39541b5c08645a015b.m3u8
 #EXTINF:-1 ,[BD]中視
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 ,台視新聞[
@@ -165,18 +211,92 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 ,三立戏剧
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://223.112.219.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南卫视
-http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 ,内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-#EXTINF:-1 ,宁夏卫视
-https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-#EXTINF:-1 ,浙江卫视
-http://223.112.219.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,amc电影
+https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
+#EXTINF:-1 ,amc印度
+https://stream1.freetv.fun/f0cf207f3356ea0d25aa764f3cb605de6d1951a772b2cce80ed51e8d0b4ce014.m3u8
+#EXTINF:-1 ,龙祥电影
+https://stream1.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8
+#EXTINF:-1 ,星光电影台
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 ,星光电影台
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 ,动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 ,动物星球
+https://025365.xyz:8082/jstv.php?id=jscs
+#EXTINF:-1 ,动物世界
+http://nas.28768806.xyz:19981/stream/channelid/1503452442?profile=pass
+#EXTINF:-1 ,广东卫视
+https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=d4e91cdd41ef2c1b65cb6b2f546b0a6f-kyQ%2Bp97L7IuGNb40z38%2B4tMOdRZb%2BmzE8kTBBq%2BRRktxOIjxY1xQad5gN4xE07g4y5inpjYjYGPYxBbibK9YB4fySopNrZs2hny3PAvKz%2F%2BM0GTizkRxnWEV7tmEom%2B9gjmpGq9VdJICAwCSFQavyPj8ztiVhTl3%2F2xslivq3KYeJBXk1TbezoWqAYgh3NV6ZS41a1j0w%2BicwCSWWt%2FlPvSaLXRM5tiWwKnYbiwlJGh9gWloxmFvQT5V4%2FBNnEYPWzubc%2FqaspqoUarxsOuNBnw81prlWkRA5jgjJ0DF7VcfTALOOlCQeIAhJpK08NCb4bN7P1Az72vj7SfBKYh%2BSqzpzoYSYURu%2BzEaLDkVe8gFqMRF7BGa9X6ioxaRXIKadz%2FkGeKysFaKMxso9x19XQ%3D%3D
+#EXTINF:-1 ,广东珠江
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=41fe21a321bf91ef683420d094f8ed06-22lLjNOWwIBHbP1QsnUU%2FPnANyT9528qVxZZ4L2q4Sn5aFYPHaIj5jhjauyp8Q4HvrhZ9t32cyD8nGD8c%2BIir8c9OoD%2F8LLLx3ng7Wxue9rji83NdSDujj%2BkRIdlBdHeuo9vq9xGUQOmFvfOmyaf4TsXC6%2FM6HdvWZc7e3WTfJ5URhiBITxda6BCfoFMJY88mUzTf%2FZoe5HK1FwWxig%2BxtAold9qCD3OPOOZXOfxbODg6o1BSoSLnAyELy17VVHXXjGRSQeBWHd2dAg1buYf3dBQEHE2ILBqqc9exJp4CJbRtXAGtK6YBmpIaMM95BMsD4DcQEPoDECrLMK2i6sBspF4Zr%2BS8COuv1wSSd%2Bk8O9tZoeI9Tfev7lc9MY2p%2Btn
+#EXTINF:-1 ,广东新闻
+https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=e17c37b1b5b5bd64fe472ed366897960-2JGdr%2B0Xv9WdksdcOmQ396t8lRrFGTHzs%2FtlNbCDn3BLhlQt%2B9Ypsf5%2FOnqx96xq%2FcNf82IObRMTUhLJ6OOdcU6V93zEmTkeWNWFUMR6cZQAr%2BRubV3wP4nJPakzJ6U%2Bmpfrh2RP5kkr92P0MjRDGWQsCJAoHWaZ4deDg6nVtODuHqeaHUuzrbNm39Lelzhtoa042SBgcNJ%2FS5fl2EI6SgMWPiFKEJZqH47Cw7WnAt4KpzSB43KAmtKob6eETS9PydYq6qM%2FzMxo%2FxSNWN%2Bj0Y7CebEuCNqet4DY5aJdc6GEMMhPbKg1fiHSPYisICDLL9YbnOMVcQKbCCMTr2zn2d1Zo4EAgmuJ27sK%2BxlZXPunaK2E%2FLZbcZu5QUN22DbI1R3lOudXDqSELBNO6USKYQ%3D%3D
+#EXTINF:-1 ,广东民生
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=30e01cb0ad22fb239079a243dbd8b27f-MGzYWtjkTAVuKRfyz8Ao0a%2BNVXJFqvWOGeS0eBm1YlenFp9N%2FFKc5fOK7pUfX2DmHkjMuSCxHjo8rmLKP0Gd6Paw9KT2OH5UPYYjVhbILo9S16Gnqqe%2FLQ5QR3BreZ35C2%2BSQ7lxy9t2%2Fd8rG2JVuL%2FaISLMkYwbPngOmmSCzrEbyhexBuwvYg3UXRGVDtX2J0NwS332XIhxSz%2BZMYGAAhXtPb%2FIK8%2FnEhM%2FJg3k5TXX6yNrQa8%2Bt24rpyYIUd4x7%2F2r8Qas0Ba2un2LHtZsV%2BDnTbSv09tQ6Cs%2Bu11Eak2FVeGlLD3zoFajvIApkZCIdbveXqXmv%2FCwP0j8DqRIsZytoNajQXV45NN5opfMdYSM2MDa8R%2BIUaos9gdH2xVgAT5V%2FV%2FM6QU7h1gVdttpGw%3D%3D
+#EXTINF:-1 ,广东体育
+https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=d7fa8daea70c4f892f9365702dcc1545-YW07GvYoG4R0B%2FrhflSLv1y111yq2YZgRZSemDosgPoOmyILDet%2F64jFz2bTGF6J1G4zBdQdMboM5kXbq6N8h2bTymhBoui1Z73aM6Vm1CS6oj4Ss%2FmpRybs0qvrQnNEA7eN44uMTyxS2guKh3mGOqpp1YuRf9Lmcbj7XoAtAOqA2A2gO9Xdqh4Xo3GONcL8bnrGUCAk%2Fd0d2wKr0IUjZSR8w1nRwHObLydoMBvnV7D1h%2F%2FMsevzfUCcHJascHsVojXQoQZwXi3f%2FWYMYrkjc3dQDQVmF5lVh22sVMRYgXGfCzj%2FBbGCpVFi9j2Mr2TPgogktFXnJp61ZWD9L5Buh7ikuZlYw%2FFOdIJCy3wX4hSGv1MW%2FsFJEBKgYqGZN6pw
+#EXTINF:-1 ,大湾区卫视
+https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=42fbd05ca6b83787d696eda67f555211-ngGxndkA8OUiMAOG7VoiuubLGNhg0FkuK8b%2F4VyeM9qNLBZeruR1eWiq%2FNsMelMUCMWQuYrM%2B1%2BDSm6LFmRWsH%2Bx62P3kxl4uvCm4K92JYCi0DQMNN4UZHfZO06JnUdxzSUApNlz%2BVScbya9QKO%2FZmdbi%2BNwpakxs1ivZy0axn9WeQrofAMgXO%2Fdk984l09fRQxJSaiN10C2YhSUL0DLV%2FjS8%2F8Hsy69g1dvxQNvoK7YMmFsAEVHNTh%2BOBkBIPEnC%2BTfCKuld0eil%2F3M%2BAebdj6G6Oyln%2BiaAE8o6FnBdsQI%2Bl8T7VSGPApa%2FsPvCPjgyHDhZzNHjFVKdUWKQJGik7yqCGDzAoFqR2nbOZL7xJ7%2BQxRrEQvQWQ6jNwiYS4MX8xcNIpnuuMUU4ACgIOSQGA%3D%3D
+#EXTINF:-1 ,广东经济科教
+https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=c00f9b91e0265d3de212f783a50fead7-rNPkoNjpx%2Fk17%2B4yBo%2B1H5o%2BZ9NvjgOOFQRZprwoaYX%2FNXsqbosDNAp%2BE2mKjhsZ%2BvaE05P2sbjGJ26OrONMhaYu88g%2F1zo3ofxwOFehcKhoom7Ew0mCZraNreolQtsdDq%2FYaryxBHG3TSTf6EwA4KZjyK3odtw99D2ST8JwIqlJs7cKY8iejMqIn7oJ8OiSYOR2MmfXBM4o7kt%2FZSLUZoPhaNZKEawZGm8E54S3W6C%2F0nY7Y6XDvMXP8mXtzJUhYXslE4TJz5J43dSpx8dT%2F6Z9TDCCN9UCLRFH9TGxJdtsW6Radr2ltHGwLkCFdo95aNB2d8tNmWw5vTgTulJ0VB7FSW%2FMKZiv%2BwgnCLdoujlClfxACrrSGC2pgdOc58zHybKbSORIBWRU5keBh70Itw%3D%3D
+#EXTINF:-1 ,广东影视
+https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=0a7f44f23f98e48d465af7fc51fd7207-MEm7UCCqp5N6LkSxoeyXvrK%2BeFmozDX2i2AdChzP2DaYDgOGeMucKXbxLMtfZQbNgbBTBZtHOw1DA%2BuiMbFQvOkP%2FVbNwbTQj1BF1y2BdH7jlD%2F5TINYcExHfGek1D5PuzpDe4n%2F70NtcMmjHvkBcYOzGGfladdQBssOjgiMCFI%2Bx7MSxAp4WKWaQ0rp17LHW38ApADCZuF6%2B20K5%2F%2BR6q72EYPZsCz%2FcfnvwxXVFQG6hcmRLta4EA7vrv3Yad%2BTJRUH%2FDRtd9Nojz%2BCzWufRDIZatC1okI%2BqLPwMcJpkJufU9sKBUgid%2B2RIjQ63trCicYFrCy54Di4AhRG%2FAqjLsh%2BPbxGdFuHSIRReqluF4OHJFGJP0N1R1foFeD7xfO7vnQV0SAnpO%2BSoqHzDK2nSA%3D%3D
+#EXTINF:-1 ,广东荔枝台
+https://tcdn.itouchtv.cn/live/lizhi.m3u8?t_token=b6ad6611560c5476edd8ff7fa15d49ff-8E0cWiMsg14x3EwFXaI%2BvLV4DMZsVTJ0PBKAP0nLpAVYXTJgal4KRjOfVTtGHq1QUlFys6rWmnjelvVoD3gfqskQ3gMwjlwMlLlv4lWAvCgMXpCMvhaWao7XdqeEfO2BXaJZRyZKgMoOBfvCXOqoIGjkokabyyrwoVyS%2FgLQ33eqHtw0Xe%2BmTXnW0MPIdfL0IYPvNPEGJlG8EIpXpbU4b9%2Bd1ZITBJwP71Uk4tRU6GKZXunyQAVOxMQFjXvo2u%2F5nOXTEJGXy0O2QajFvkfMUL2OLCDaw0waTKMTxC%2FC3aSrd7Y3n0ZMBD4%2B%2BKx%2FqrfEthv0RlSDdDtarmfGubdrxYoj1%2F3p%2FLLnBAH7jGF0vpjUJjB5Z%2FfRHN8ymNQYhTiM7FlZx1NjuXXJ%2BYqaILW0YGJkq8rUkZBK45m4ITvGz8o%3D
+#EXTINF:-1 ,广东纪录台
+https://tplaylive.grtn.cn/live/jilupian.m3u8?auth_key=1723169807-0-0-a22daa4ac6b536a33093913025b42be6
+#EXTINF:-1 ,广东健康台
+https://tcdn.itouchtv.cn/live/health.m3u8?t_token=1617519e287bbf4036c93eb6dbb687ca-GVua4Chiv8YZ1Ytmf4N2f1x7uQvT1l3xjRE0Kgde3C1e2hhM6z%2BTRtnMyE01cSTUVHkX7UM%2BDGS87DB%2BadvnPykc2uGVTMS2gqMRrHt8bRzPcWbjfJfC1uOwtxNoqdE2fTC9N5BEjL8nMUQS6OnsevJTsYwcv%2BTDzv4tDUS7JxHX2PKeHdf4X0bNgIUJw6AchEmPw48aequ9LRg4WkLK9FGaMwWiSie4AObphddB6dDnsaEbCumo22GgU%2FAKJqMvb17ziIbKL6Tn9H4DpDKL9AVLefsIU2Ed8K4wV8OHWXOCkf0nc5Tq1UNPrdryoMnTL4x7IW1JztRy8tcJ0nhjcHWU1JOLHruqScUE%2BZppTsmBUC3fy8SPCUL2WZAuqRun
+#EXTINF:-1 ,广东文化台
+https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1723169933-0-0-a75d561ef755692a83a66b8eb1a647c4
+#EXTINF:-1 ,广东生活台
+https://tcdn.itouchtv.cn/live/life.m3u8?t_token=a2bab2386bba63d7f994792c75944cf3-w5r0QJUgzsiyHxCHDjRsvCIDxLwfmv41Fy5povQr%2BQODhx3sP3Ix%2Fnft8hVcLizy1dVS8hUrNFJS5o4wPmXr7mhAyxeyV36owJ5ob8Mjwvm0yNl%2BE2zgB4GOZGix1l5z8msLRMiQEf8KvMLic6vNCKrpjMiqHTxISeiNSHz%2F%2BR2cn%2FMwq%2Fs5pr%2B9CT7Z3Z6c7ePCcn51WP9TtL%2BYmzcDvecWgjVEbeapUkPMUeuiBS2KXjI78AAaE9PvIwRbWFyUn2lZikUEntbmsw8BSMCCMtr%2Bdqtxwa8OJFbDAh8spRyocwQBoEUCMi4fO9PeATLMyKta9ab79U%2FtBxjmMK2AqwLQT85B%2FAcke3fTNhBHzDb5cEHTmw%2FSEISNyfo3JQ59
+#EXTINF:-1 ,广东4K高清
+https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=9402b740987703abf733a8849558b538-foz71Ee2jftc%2FfZSvF4T3qTNm7%2FFGh2EoFdTmZrh2ygbUEZ8JzsnArInkeD8nDqHCvOPQDz2yHbvJurOqaQi1fio8brRE6P9nxxKWDA79Rt4Q32oHKBHvRTd%2BST5CjUdbaiPSCbfTNMu8%2BN9L4kG3mD6oit7TzStedqJNnOXqeOr85fyGvx3rBx%2BxYSv5arzFqZKhgHWPkBO4OlAhHtqkdXELDcjzu0LR3kGebL4cUznLdIRkrmfgM9w%2FVJBPBDLd3kmiEr3LDYeJQzjkRpYr%2BeZGB%2FMyuW%2B1zk2FzHh4svaIWigqWTFJqn0zXGJnYJJ4aoYE3V32OQLLl4FAw7m%2BBsIR5xMLkxas3OrcZjbbCf7P0SRTVNo9Z9qSw1AhITa
+#EXTINF:-1 ,广东戏曲
+https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=3f34cc1a624817258c7e7d19508c9c8e-jF8RU0b%2B79QChONwNre8yOukE1TNw95EtogKe%2BNXRVTwE4MEONsrKFtfU3QfkBEAUq1PQZ8sNPop8wdEyxS%2FiTv0XNz2Fr9%2BlOIsmjifH7tKCwipKOwO8BS910yHxrnBhuMdft6IZyyERFz%2FQ1IsAqUCIoX1Dpa%2BDLse2vV5Ft54VdLyVvU1QpGwsvGOUd54q75oc2M4dZ8JbpPXvruvTjatVyK%2FubmLdOlzgiCHFTT50aaYDmuwT1ZazZucOLzhU3yJdgJeTHqaTH45Locs7opnQq63oUz14%2FRFbEhaqpJ0vNvfYzqZ7SQERW4kkkfP%2FUZjKHJ36Ie5D84V4yaLQDKI%2Fzlk5DvzgrUEZNYYVcM5cMUoSUkZUASeKypczKBn
+#EXTINF:-1 ,广州电视台综合频道
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+#EXTINF:-1 ,广州电视台影视频道
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
+#EXTINF:-1 ,广州电视台新闻频道
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+#EXTINF:-1 ,广州竞赛频道
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+#EXTINF:-1 ,广州电视台法治频道
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+#EXTINF:-1 ,广州南国都市频道
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 ,三沙卫视
+https://live3.hnntv.cn/srs/tv/ssws.m3u8
+#EXTINF:-1 ,海南卫视
+https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
+#EXTINF:-1 ,海南自贸
+https://live3.hnntv.cn/srs/tv/jjpd.m3u8
+#EXTINF:-1 ,海南新闻
+https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+#EXTINF:-1 ,海南公共
+https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+#EXTINF:-1 ,海南文旅
+https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+#EXTINF:-1 ,海南少儿
+https://live3.hnntv.cn/srs/tv/sepd.m3u8
+#EXTINF:-1 ,吉林卫视
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+#EXTINF:-1 ,吉林都市
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+#EXTINF:-1 ,吉林生活
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+#EXTINF:-1 ,吉林影视
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+#EXTINF:-1 ,吉林乡村
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+#EXTINF:-1 ,吉林公共新闻
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+#EXTINF:-1 ,吉林综艺文化
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
 #EXTINF:-1 ,南京
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 ,南京生活
@@ -195,17 +315,23 @@ http://stream.thmz.com/wxtv3/playlist.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,苏州4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,三沙卫视
-https://live3.hnntv.cn/srs/tv/ssws.m3u8
-#EXTINF:-1 ,海南卫视
-https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
-#EXTINF:-1 ,海南自贸
-https://live3.hnntv.cn/srs/tv/jjpd.m3u8
-#EXTINF:-1 ,海南新闻
-https://live3.hnntv.cn/srs/tv/xwpd.m3u8
-#EXTINF:-1 ,海南公共
-https://live3.hnntv.cn/srs/tv/ggpd.m3u8
-#EXTINF:-1 ,海南文旅
-https://live3.hnntv.cn/srs/tv/wlpd.m3u8
-#EXTINF:-1 ,海南少儿
-https://live3.hnntv.cn/srs/tv/sepd.m3u8
+#EXTINF:-1 ,苏州4K
+https://stream1.freetv.fun/7b505d86cb34de26c09f3abcc3faddc08584598ca18e2f7da16f0ce933c7fc71.m3u8
+#EXTINF:-1 ,北京卫视
+http://223.112.219.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖南卫视
+http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 ,内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1 ,宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+#EXTINF:-1 ,浙江卫视
+http://223.112.219.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,新疆汉语综艺频道
+https://liveplay.xjbs.cn/liveback/xjtvs-04.m3u8?auth_key=1723177338-0-0-da2f9edec4dfff8a14c8b517826de849
+#EXTINF:-1 ,新疆汉语体育频道
+https://liveplay.xjbs.cn/liveback/xjtvs-10.m3u8?auth_key=1723177723-0-0-e568da07dccff38fe0087c6596cf9ee6
+#EXTINF:-1 ,新疆汉语信息服务频道
+https://liveplay.xjbs.cn/liveback/xjtvs-11.m3u8?auth_key=1723177723-0-0-127a4761a9966051599eb8bc0f6e3b89
