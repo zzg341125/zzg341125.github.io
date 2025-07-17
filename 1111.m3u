@@ -1,11 +1,11 @@
-#EXTM3U
-#EXTINF:-1 ,凤凰资讯台
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13955036885&pwd=make123456MAKE
-#EXTINF:-1 ,凤凰中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
-#EXTINF:-1 ,凤凰香港台
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13955036885&pwd=make123456MAKE
-#EXTINF:-1 ,凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://104.225.237.144:52055/youtube/HFib76ySpbU
 #EXTINF:-1 ,中天新闻
 http://104.225.237.144:52055/youtube/vr3XyVCR4T0
