@@ -33,7 +33,7 @@ http://104.225.237.144:4022/udp/238.1.78.243:7816
 http://104.225.237.144:4022/udp/238.1.78.222:7648
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://104.225.237.144:4022/udp/238.1.78.178:7296
-#EXTINF:-1 ,CCTV-4K
+#EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K.png" group-title="央视频道", CCTV 4K
 http://104.225.237.144:4022/udp/238.1.79.23:4296
 #EXTINF:-1 tvg-name="广东卫视4k" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视4k
 http://104.225.237.144:4022/rtp/238.1.79.25:4312
