@@ -44,6 +44,8 @@ http://104.225.237.144:52055/youtube/5n0y6b0Q25o
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #EXTINF:-1 ,BBC_News_Asia_Pacific
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+#EXTINF:-1 ,美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 ,新加坡8视界
 http://104.225.237.144:52055/youtube/RvSOIM620bA
 #EXTINF:-1 ,大愛一臺
