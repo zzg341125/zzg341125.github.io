@@ -39,6 +39,8 @@ http://104.225.237.144:4022/udp/238.1.79.23:4296
 http://104.225.237.144:4022/rtp/238.1.79.25:4312
 #EXTINF:-1 tvg-name="深圳卫视4k" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视4k
 http://104.225.237.144:4022/rtp/238.1.79.26:4320
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视4K
+http://104.225.237.144:4022/rtp/238.1.79.24:4304
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://104.225.237.144:4022/udp/238.1.78.50:6272
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
