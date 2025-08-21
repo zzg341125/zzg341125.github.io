@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 #EXTINF:-1 ,CCTV-1 综合
 http://104.225.237.144:4022/udp/238.1.78.166:7200
 #EXTINF:-1 ,CCTV2
