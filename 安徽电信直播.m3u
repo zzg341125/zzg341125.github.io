@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 #EXTINF:-1 ,CCTV-1 综合
 http://192.168.9.1:4022/udp/238.1.78.166:7200
 #EXTINF:-1 ,CCTV2
@@ -455,3 +455,4 @@ http://192.168.9.1:4022/udp/238.1.78.196:7440
 http://192.168.9.1:4022/udp/238.1.78.197:7448
 #EXTINF:-1 ,蒙城新闻频道
 http://192.168.9.1:4022/udp/238.1.79.19:4264
+
