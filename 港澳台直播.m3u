@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"	,"https://epg.pw/xmltv/epg_TW.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"	、"http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13955036885&pwd=make123456MAKE
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
