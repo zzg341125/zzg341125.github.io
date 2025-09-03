@@ -7,6 +7,8 @@ http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13955036885&pwd=make12345
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13955036885&pwd=make123456MAKE
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://104.225.237.144:52055/youtube/HFib76ySpbU
+#EXTINF:-1 ,凤凰资讯油管
+http://104.225.237.144:52055/youtube/https:/BLaQVW5oUGU
 #EXTINF:-1 ,中天新闻
 http://104.225.237.144:52055/youtube/vr3XyVCR4T0
 #EXTINF:-1 ,台視新聞台
