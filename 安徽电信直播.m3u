@@ -1,61 +1,59 @@
-#EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
-#EXTINF:-1 ,CCTV1
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml,https://iptv-epg.org/files/epg-hk.xml.gz,https://iptv-epg.org/files/epg-tw.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://192.168.100.1:5140/udp/238.1.78.166:7200
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://192.168.100.1:5140/udp/238.1.78.235:7752
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 http://192.168.100.1:5140/udp/238.1.78.170:7232
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://192.168.100.1:5140/udp/238.1.78.236:7760
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://192.168.100.1:5140/udp/238.1.78.171:7240
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://192.168.100.1:5140/udp/238.1.78.237:7768
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://192.168.100.1:5140/udp/238.1.78.172:7248
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://192.168.100.1:5140/udp/238.1.78.239:7784
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://192.168.100.1:5140/udp/238.1.78.173:7256
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 http://192.168.100.1:5140/udp/238.1.78.240:7792
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://192.168.100.1:5140/udp/238.1.78.241:7800
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 http://192.168.100.1:5140/udp/238.1.78.206:7502
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://192.168.100.1:5140/udp/238.1.78.242:7808
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://192.168.100.1:5140/udp/238.1.79.35:4392
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://192.168.100.1:5140/udp/238.1.78.243:7816
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://192.168.100.1:5140/udp/238.1.78.222:7648
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://192.168.100.1:5140/udp/238.1.78.178:7296
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘4K频道",CCTV4K
 http://192.168.100.1:5140/udp/238.1.79.23:4296
-#EXTINF:-1 ,CCTV4K
-http://192.168.100.1:5140/udp/238.1.78.137:6968
-#EXTINF:-1 ,广东卫视4K
-http://192.168.100.1:5140/udp/238.1.79.25:4312
-#EXTINF:-1 ,深圳卫视4K
-http://192.168.100.1:5140/udp/238.1.79.26:4320
-#EXTINF:-1 ,北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘4K频道",北京卫视4K
 http://192.168.100.1:5140/udp/238.1.79.24:4304
-#EXTINF:-1 ,江苏卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="☘4K频道",广东卫视4K
+http://192.168.100.1:5140/udp/238.1.79.25:4312
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="☘4K频道",深圳卫视4K
+http://192.168.100.1:5140/udp/238.1.79.26:4320
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="☘4K频道",江苏卫视4K
 http://192.168.100.1:5140/udp/238.1.78.37:4088
-#EXTINF:-1 ,浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4K.png" group-title="☘4K频道",浙江卫视4K
 http://192.168.100.1:5140/udp/238.1.79.28:4336
-#EXTINF:-1 ,湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘4K频道",湖南卫视4K
 http://192.168.100.1:5140/udp/238.1.79.38:4416
-#EXTINF:-1 ,东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="☘4K频道",东方卫视4K
 http://192.168.100.1:5140/udp/238.1.79.39:4428
-#EXTINF:-1 ,山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视4K.png" group-title="☘4K频道",山东卫视4K
 http://192.168.100.1:5140/udp/238.1.79.29:4344
-#EXTINF:-1 ,四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4K.png" group-title="☘4K频道",四川卫视4K
 http://192.168.100.1:5140/udp/238.1.79.51:4520
-#EXTINF:-1 ,爱上4K
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="☘4K频道",爱上4K
 http://192.168.100.1:5140/udp/238.1.78.23:6112
 #EXTINF:-1 ,CHC影迷电影
 http://192.168.100.1:5140/udp/238.1.79.17:4248
